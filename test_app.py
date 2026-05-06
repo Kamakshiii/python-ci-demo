@@ -1,4 +1,4 @@
-from app import add
+from app import add.
 
 def test_add():
     assert add(5,7) == 12
