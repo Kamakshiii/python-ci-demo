@@ -21,7 +21,7 @@ spec:
       containers:
         - name: flask-app
 
-          image: kamakshiii/flask-devops-app:latest
+          image: kamakshii/flask-devops-app:latest
 
           ports:
             - containerPort: 5000
