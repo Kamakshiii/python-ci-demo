@@ -4,7 +4,7 @@ def add(a, b):
     return a + b
 @app.route("/")
 def home():
-    return ("hello DevOps")
+    return ("hello DevOps from argocd")
 @app.route("/test")
 def test():
     return "This is test route"
